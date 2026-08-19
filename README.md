@@ -151,7 +151,7 @@ Preferred payment methods and order categories among different customer groups.
 Customer purchasing behavior based on tenure, coupons, orders, and cashback.
 Churn patterns across different city tiers and warehouse distances.
 Customer return behavior among churned and complaining customers.
-High-performing order categories based on average cashback.
+High-performing order categories based on average cashback.                                                               
 📁 Project Structure
 E-Commerce-Customer-Churn-Analysis/
 │
